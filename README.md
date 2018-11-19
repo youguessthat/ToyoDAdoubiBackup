@@ -1,4 +1,4 @@
-# 一个逗比脚本
+# 一个脚本
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![GitHub stars](https://img.shields.io/github/stars/heweiye/ToyoDAdoubiBackup.svg?style=popout&label=Stars)](https://github.com/heweiye/ToyoDAdoubiBackup/stargazers)
